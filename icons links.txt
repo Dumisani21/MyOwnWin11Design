@@ -1,0 +1,7 @@
+windows 10 icon: https://image.flaticon.com/icons/png/512/732/732225.png
+adobe photoshop: https://image.flaticon.com/icons/png/512/888/888872.png
+illustrator: https://image.flaticon.com/icons/png/512/688/688064.png
+replaced dreamwaver with indesign:https://image.flaticon.com/icons/png/512/688/688065.png
+after effects: https://image.flaticon.com/icons/png/512/688/688068.png
+xd replaced with premier: https://image.flaticon.com/icons/png/512/688/688067.png
+vscode: https://image.flaticon.com/icons/png/512/906/906324.png
